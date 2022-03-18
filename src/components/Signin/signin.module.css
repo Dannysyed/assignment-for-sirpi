@@ -1,0 +1,9 @@
+.sign{
+    border: solid;
+    /* color: white; */
+    padding: 30px;
+    background-color: blueviolet;
+}
+.sign div{
+    margin: 20px;
+}
